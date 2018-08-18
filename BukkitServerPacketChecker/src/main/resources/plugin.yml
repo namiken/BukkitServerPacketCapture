@@ -1,0 +1,3 @@
+name: BukkitServerPacketChecker
+main: jp.thelow.packetChecker.PacketCheckerPlugin
+version: 1.0
